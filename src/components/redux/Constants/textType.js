@@ -1,0 +1,8 @@
+
+
+export const textType ={
+    SET_BITTER : 'SET_BITTER',
+    SET_SATISFY : 'SET_SATISFY',
+    SET_LOBSTER : 'SET_LOBSTER',
+    SET_BALOO_BHAI : 'SET_BALOO_BHAI'
+}
